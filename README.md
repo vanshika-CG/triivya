@@ -1,6 +1,6 @@
 # ✨ Triivya: Modern E-commerce Web Application
 
-![Triivya Banner](https://via.placeholder.com/1200x400/007bff/ffffff?text=Triivya+E-commerce+Platform)
+![Triivya Banner](./public/images/festive-sale-bg.webp)
 
 ## 🚀 Overview
 
